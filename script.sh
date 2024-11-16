@@ -6,7 +6,7 @@ YELLOW='\033[1;33m'
 RED='\033[0;31m'
 RESET='\033[0m'
 
-git clone https://github.com/0xHawre/Running-a-local-Fuel-node-connected-to-Mainnet-using-P2P.git && cd Running-a-local-Fuel-node-connected-to-Mainnet-using-P2P
+git clone https://github.com/0xHawre/Fuel-main-net-p2p-node.git && cd Fuel-main-net-p2p-node 
 
 check_tmux() {
     if command -v tmux &> /dev/null; then
