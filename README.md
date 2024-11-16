@@ -30,6 +30,6 @@ chmod +x script.sh
 
 ## run by one 
 ```
-curl -s https://raw.githubusercontent.com/0xHawre/Running-a-local-Fuel-node-connected-to-Mainnet-using-P2P/refs/heads/main/script.sh | bash
+curl -s https://raw.githubusercontent.com/0xHawre/Fuel-main-net-p2p-node/refs/heads/main/script.sh
 ```
 It is also available via CDN from https://chain-config-assets.fuel.network.
