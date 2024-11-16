@@ -15,7 +15,7 @@ This repo contains the latest Fuel Chain Configuration data.
 
 ## Clone  repository:
 ```sh
-git clone https://github.com/0xHawre/Running-a-local-Fuel-node-connected-to-Mainnet-using-P2P.git && cd Running-a-local-Fuel-node-connected-to-Mainnet-using-P2P
+git clone https://github.com/0xHawre/Fuel-main-net-p2p-node.git  && cd Fuel-main-net-p2p-node.git
 ```
 
 ## Allow execution:
