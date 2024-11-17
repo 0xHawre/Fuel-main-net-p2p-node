@@ -28,8 +28,4 @@ chmod +x script.sh
 ./script.sh
 ```
 
-## run by one 
-```
-curl -s https://raw.githubusercontent.com/0xHawre/Fuel-main-net-p2p-node/refs/heads/main/script.sh
-```
 It is also available via CDN from https://chain-config-assets.fuel.network.
